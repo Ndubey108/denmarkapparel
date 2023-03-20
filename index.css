@@ -1,0 +1,102 @@
+footer a{
+    text-decoration: none;
+}
+ li{
+    list-style-type:none;
+    margin-left:3vw;
+    font-size:19px;
+}
+ul{
+    display:flex;
+  
+    align-items: center;
+   padding-top:1vh;
+}
+nav{
+    height:10vh;
+    width:100vw;
+    background-color:black;
+    color:white;
+    display:flex;
+    padding-top:2vh;
+}
+h3{
+    margin-left:5vw;
+}
+.image{
+    height:35vh;
+    width:100vh;
+}
+.image h2,h4,button{
+    margin-left:5vw;
+}
+.image button{
+    height:6vh;
+    width:10vw;
+    letter-spacing:1px;
+    background-color:black;
+    color:white;
+    text-align: center;
+
+}
+.feature h2{
+    text-align: center;
+   color: black;
+   height:15vh;
+    padding-top:2px;
+}
+.design{
+    color:black;
+    font-weight:800;
+    height:9vh;
+    width:10vw;
+}
+.design1{
+    color:white;
+    background-color:black;
+
+}
+.feature li{
+    font-size:29px;
+    margin-left:7vw;
+}
+.feature ul{
+    display:flex;
+    align-items:center;
+   
+}
+.fac{
+    height:25vh;
+    display:flex;
+    justify-content:space-evenly;
+    background-color:brown;
+    color:white;
+    padding-top: 0%;
+}
+.fac1{
+  
+    width:15vw;
+    display:flex;
+    flex-direction: column;
+     justify-content: center;
+    align-items: center;
+}
+.fac1 li{
+    color:white;
+  
+}
+.fac a{
+    color:white;
+}
+footer{
+    background-color: black;
+    color:white;
+    height:25vh;
+}
+.fmcontainer{
+    display:flex;
+}
+footer ul{
+    display:flex;
+    flex-direction: column;
+}
